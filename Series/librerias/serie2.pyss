@@ -1,0 +1,10 @@
+#!/usr/bin/python2
+#!__coding:utf8__
+
+c = 0
+
+while c <= 50:
+    if c%2 != 0
+        print "la serie es: %d"%c
+        c = c+2
+    
