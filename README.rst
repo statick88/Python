@@ -18,6 +18,6 @@ Algunos ejercicios básicos de Python para iniciarse en este mundo de la program
 Galeria
 =======
 
-**Ejemplo 1** Autor 5t4t1ck
+**Ejemplo 1** Autor Statick
 
 .. image:: http://i.imgur.com/29YaBB7.png
