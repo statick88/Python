@@ -20,4 +20,4 @@ Galeria
 
 **Ejemplo 1** Autor Statick
 
-.. image:: http://i.imgur.com/29YaBB7.png
+.. image:: http://i.imgur.com/P1XS5DY.png
