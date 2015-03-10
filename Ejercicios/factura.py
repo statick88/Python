@@ -1,6 +1,6 @@
-#/usr/bin/env python2
-#-*-coding:utf-8-*-
-''' Crear una factura para ingresar un articulo y generar el iva 12 de la
+#|/usr/bin/env python2
+#|-*-coding:utf-8-*-
+''' Crear una factura para ingresar un articulo y generar el iva 12 de la 
 misma '''
 
 def factura():
