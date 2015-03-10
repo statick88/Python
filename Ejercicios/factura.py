@@ -5,7 +5,7 @@ misma '''
 
 def factura():
 	print "="*30
-	precio = float(raw_input("Ingrese el valor neto: "))
+	precio = float(input("Ingrese el valor neto: "))
 	iva = precio * 0.12
 	print "="*30
 	print precio
