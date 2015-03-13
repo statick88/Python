@@ -3,6 +3,15 @@
 '''
 Ingresar un número y calcular el cuadrado de este
 '''
-num = int(input("Ingrese un primer número: "))
-cuadrado = num*num
-print "El cuadrado de %d es %d"%(num, cuadrado)
+def main():
+    print "Se calcularán cuadrados de números"
+
+    n1 = input("Ingrese un número: ")
+    n2 = input("Ingrese otro número entero: ")
+
+    for x in range(n1, n2):
+        print x*x
+
+    print "Es todo por ahora"
+
+main()
