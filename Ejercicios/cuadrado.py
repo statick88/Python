@@ -4,6 +4,5 @@
 Ingresar un número y calcular el cuadrado de este
 '''
 num = int(input("Ingrese un primer número: "))
-
 cuadrado = num*num
 print "El cuadrado de %d es %d"%(num, cuadrado)
